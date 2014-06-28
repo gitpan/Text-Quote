@@ -26,4 +26,4 @@ requires:
 resources:
   homepage: https://github.com/neilbowers/Text-Quote
   repository: https://github.com/neilbowers/Text-Quote.git
-version: '0.31'
+version: '0.32'
